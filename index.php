@@ -1,4 +1,4 @@
-<!DOCTYPE_html>
+<!DOCTYPE html>
 <html>
 	<head>
 		<title>one step at a time</title>
